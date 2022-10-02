@@ -19,13 +19,14 @@ git clone
 git commit
 git push
 ```
-## Additional Info and Links
+## Links
 Here is a link to my [Linkedin](https://linkedin.com/in/alwin-low-76679b226).
 
-[About me](https://github.com/AstralWin/Week-0-1-Lab/blob/vsc_branch/index.md#alwins-user-page)
+[About me](https://astralwin.github.io/Week-0-1-Lab/#quotes)
 
 [Here is an image of me](/Alwin.jpg)
 
+## Additional Info
 List of my favorite sports:
 1. Soccer
 2. Tennis
