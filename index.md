@@ -39,7 +39,7 @@ List of my the programming languages I know:
 - C
 - C++
 
-Tasks I have to do this week
+Tasks I have to do this week:
 - [] Study for reading quizzes
 - [] Play badminton
 - [] Play basketball
