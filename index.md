@@ -2,10 +2,12 @@
 
 # Alwin's User Page
 **Brief Introduction about myself**
+
 I am a 4th year student majoring in Computer Science. My hobbies involve all sorts of sports, predominantly soccer, tennis, and ~~basketball~~ badminton. I'm really interested in learning about Javascript, CSS, React, etc, as I hope to have a career working as a front-end developer.
 
 ## Quotes
 >With great power comes great responsibility
+
 This is a quote that I have always hold close to my heart.
 
 Some of the Git commands that I used in this lab are:
@@ -18,9 +20,9 @@ git commit
 git push
 ```
 ## Additional Info and Links
-Here is a link to my [Linkedin](linkedin.com/in/alwin-low-76679b226).
+Here is a link to my [Linkedin](https://linkedin.com/in/alwin-low-76679b226).
 
-[About me](https://vscode.dev/github/AstralWin/Week-0-1-Lab/blob/db34d3a66fa604707043cb42e9a71580cd111467/index.md#L4)
+[About me](https://github.com/AstralWin/Week-0-1-Lab/blob/vsc_branch/index.md#alwins-user-page)
 
 [Here is an image of me](/Alwin.jpg)
 
